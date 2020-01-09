@@ -1,9 +1,7 @@
 # Black Desert Online Việt hóa
-**How to install**
+**Cài đặt**
 
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+**- Giải nén file languagedata_en.loc vào thư mục Black Desert Online\ads.**
 
 # Screenshots
 <p align="center">
