@@ -1,5 +1,5 @@
 <p align="center">
-Black Desert Online Việt hóa
+# Black Desert Online Việt hóa
 </p>
 
 # Screenshots
