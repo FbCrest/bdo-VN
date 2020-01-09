@@ -1,3 +1,4 @@
+<p align="center">
 # bdo-VN
 Black Desert Online Việt hóa
 
