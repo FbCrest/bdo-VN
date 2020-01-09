@@ -1,5 +1,5 @@
 # Black Desert Online Việt hóa
-**Cài đặt**
+**Hướng dẫn cài đặt**
 - Giải nén file languagedata_en.loc vào thư mục Black Desert Online\ads.
 
 # Screenshots
