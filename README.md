@@ -1,5 +1,5 @@
 # Black Desert Online Việt hóa
-**How to install
+**How to install**
 
 1. James Madison
 2. James Monroe
