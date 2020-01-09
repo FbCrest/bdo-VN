@@ -22,6 +22,6 @@
   <img width="" height="" src="https://i.imgur.com/WgAoxQI.png">
 </p>
 
-# Credits:
+# Credits
 - Tool by Lê Hiếu - Game tiếng việt.
 - Translate by me
