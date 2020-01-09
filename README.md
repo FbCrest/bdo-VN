@@ -5,7 +5,7 @@
 - Giải nén file languagedata_en.loc vào thư mục Black Desert Online\ads.
 
 **※ Font chữ**
-- tạo thư mục prestringtable\font trong Black Desert Online.
+- Tạo thư mục prestringtable\font trong Black Desert Online.
 - Giải nén file pearl.ttf vào thư mục vừa tạo theo đường dẫn Black Desert Online\prestringtable\font
 
 **Chú ý**
