@@ -1,3 +1,3 @@
 # bdo-VN
 Black Desert Online Việt hóa
-![alt text](imgur.com/a/RDIUejh)
+![alt text](https://i.imgur.com/yTBf0b4.png)
