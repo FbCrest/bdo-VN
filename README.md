@@ -2,7 +2,7 @@
 Black Desert Online Việt hóa
 
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/yTBf0b4.png">
+  <img width="" height="" src="https://i.imgur.com/yTBf0b4.png">
 </p>
 
 
