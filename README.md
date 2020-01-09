@@ -1,6 +1,3 @@
-<p align="center">
-# bdo-VN
-  
 Black Desert Online Việt hóa
 
 ![alt text](https://i.imgur.com/yTBf0b4.png)
