@@ -6,3 +6,11 @@ Black Desert Online Việt hóa
   <img width="" height="" src="https://i.imgur.com/yTBf0b4.png">
 </p>
 
+<p align="center">
+  <img width="" height="" src="https://i.imgur.com/WgAoxQI.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="https://i.imgur.com/7CbOLYd.png">
+</p>
+
